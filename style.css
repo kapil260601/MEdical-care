@@ -1,0 +1,525 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+.Health
+{
+    background-color:ghostwhite;
+    width:100%;
+    height:750px;
+    
+}
+
+
+
+.Your
+{
+    font-size:30px;
+    color:#00C1D4;
+    padding:190px 260px;
+
+}
+
+.Care
+{
+    color:#00C1D4;
+    font-size:60px;
+    padding:10px 260px;
+    margin:-150px 1px
+
+}
+
+.single
+{
+    font-size:20px;
+    padding:150px 260px;
+
+}
+
+.Read  
+{
+    width:60px;
+    height:35px;
+    color:white;
+    background-color:#00C1D4;
+    border:1px solid #00C1D4;
+    border-radius:40px;
+    margin:-120px 260px;
+    padding:7px 50px;
+      
+}
+
+.GO
+{
+    background-color:white;
+    height:750px;
+}
+
+.for
+{
+    font-size:23px;
+    color:black;
+    padding:70px 120px;
+
+}
+
+.pro 
+{
+    font-size:19px;
+    margin:-60px 120px;
+}
+
+.Dia
+{
+    float:right;
+    margin-right:630px;
+    margin-top:5px;
+}
+
+.H
+{
+    font-size:35px;
+    color:black;
+    margin:-15px 240px;
+}
+
+.pat
+{
+     font-size:25px;
+     color:black;
+     margin:25px 240px;
+}
+
+.Kia
+{
+    float:right;
+    margin-right:260px;
+    margin-top:5px;
+}
+
+.L
+{
+    font-size:35px;
+    color:black;
+    margin:-110px 240px;
+}
+
+.ram
+{
+     font-size:25px;
+     color:black;
+     margin:120px 240px;
+}
+
+.side 
+{
+    float:right;
+    width:400px;
+    height:340px;
+    background-color:#64C9CF;
+    padding:40px;
+    margin-left:530px;
+    margin-top:-268px;
+}
+
+.check
+{
+    font-size:23px;
+}
+
+.week 
+{
+    font-size:40px;
+}
+
+.you 
+{
+    font-size:15px;
+}
+
+.Sia
+{
+    float:right;
+    margin-right:260px;
+    margin-top:5px;
+}
+
+.W
+{
+    font-size:35px;
+    color:black;
+    margin:-110px 260px;
+}
+
+.jay
+{
+     font-size:25px;
+     color:black;
+     margin:120px 260px;
+}
+
+.Hia
+{
+    float:right;
+    margin-right:260px;
+    margin-top:5px;
+}
+
+.V
+{
+    font-size:35px;
+    color:black;
+    margin:-205px 655px;
+}
+
+.ajay
+{
+     font-size:25px;
+     color:black;
+     margin-top:220px;
+     margin-left:655;
+}
+
+.Ria 
+{
+    padding:230px 300px;
+    margin-left:-200px;
+}
+
+.A{
+    font-size:35;
+}
+
+.vijay
+{
+    font-size:25px;
+    margin-top:20px;
+
+}
+
+.kapil
+{
+    margin:-40px 100px;
+    width:45%;
+    height: 940px;
+    background-image: url(Images/22.png);
+
+}
+
+.We
+{  
+    font-size:20px;
+    margin-left:860px;
+    margin-top:-800px; 
+}
+
+.patel
+{
+    color:#64C9CF;
+    font-size:35px;
+    margin-left:860px;
+    margin-top:40px;
+}
+
+.mohit
+{
+    font-size:18px;
+    margin-left:860px;
+    margin-top:50px
+}
+
+.rohit
+{
+    font-size:18px;
+    margin-left:860px;
+    margin-top:60px
+}
+
+.sawan
+{
+    color:black;
+    font-size:23px;
+    margin-left:860px;
+    margin-top:70px
+}
+
+.viraj ul
+{
+    width:60px;
+    height:35px;
+    color:white;
+    background-color:#00C1D4;
+    border:1px solid #00C1D4;
+    border-radius:40px;
+    margin:30px 800px;
+    padding:7px 50px;
+    list-style:none;
+    
+}
+
+.viraj li a:link 
+{
+    text-decoration:none;
+    color:white;
+}
+
+.viraj ul li:hover
+{
+    background-color:#3EDBF0;
+}
+
+
+.ggy
+{
+    margin-top:1500px;
+}
+
+.on
+{
+    font-size:30px;
+    color:#3EDBF0;
+   
+    margin:-600px 200px;
+}
+
+
+.don
+{
+    margin:600px 0px;
+    margin-left:200px;
+}
+
+
+.of
+{
+   font-size:15px;    
+}
+
+.take
+{    
+    margin:-550px 0px;
+    font-size:25px;
+    color:black;
+    margin-left:200px;
+}
+
+.no
+{
+    font-size:25px;
+    margin:580px 0px;
+    color:black;
+    margin-left:200px;
+    font-size:25px;
+}
+
+.img
+{
+    float:right;
+    margin:-900px 0px;
+}
+
+.Our 
+{
+    margin:-300px 0px;
+    margin-left:570px;
+    font-size:30px;
+}
+
+.Team
+{
+  margin:400px 0px;
+  margin-left:300px; 
+    
+}
+.Tailor
+{  
+    margin:10px 0px;
+    margin-left:50px; 
+}
+
+.Jessica
+{
+    font-size:25px;
+    color:black;
+}
+
+.Ream
+{
+  margin:-385px 0px;
+  margin-left:300px; 
+    
+}
+.Tajlor
+{  
+    margin:10px 0px;
+    margin-left:50px; 
+}
+
+.Jessika
+
+{
+    font-size:25px;
+    color:black;
+}
+
+.Deam
+{
+  margin:-480px 0px;
+  margin-left:320px; 
+    
+}
+.Tatlor
+{  
+    margin:10px 0px;
+    margin-left:50px; 
+}
+
+.Jessisa
+
+{
+    font-size:25px;
+    color:black;
+}
+
+.back
+{   
+    height:700px;
+    margin:300px 0px;
+    background-color:#3EDBF0;
+    margin-left:-1000px; 
+    text-align:center;   
+}
+
+.ear
+{
+    padding:50px 0px;
+    font-size:45px;
+}
+
+.para
+{
+    text-align:center;
+}
+
+.going
+{
+    margin:155px 0px;
+    
+}
+
+.come
+{
+    width:100%;
+}
+
+.make
+{
+    margin:-115px 0px;
+}
+
+.absent
+{
+    text-align: center;
+    font-size:35px;
+}
+
+.kapil{
+    margin-top:500px;
+}
+
+.raj 
+{
+    width:100%;
+    padding:20px 40px;
+    font-size:22px;
+    box-sizing:border-box;
+    display: inline-block;
+    margin:200px 0px;
+}
+
+input[type=text], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+
+  input[type=email], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  
+  input[type=date], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  input[type=button] {
+    width: 30%;
+    background-color:orange;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border:4px solid orange;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  input[type=button]:hover {
+    background-color:#f7a540a1;
+  }
+
+  input[type=button]:focus 
+  {
+      background-color:#0CECDD;
+      font-size:30px;
+  }
+
+  
+
+  .foot
+  {
+      margin:-50px 0px;
+      background-color:#2B2B2B;
+      width:100%;
+      height:250px;
+
+  }
+
+  .Sample
+  {
+      color:white;
+      font-size:20px;
+      padding-top:50px;
+      padding-left:50px ;
+  }
+
+  .text
+  {
+      font-size:20px;
+      color:white;
+  }
+
+  .href
+  {
+      font-size:20px;
+      color:white;
+      padding-top:80px;
+      padding-left:70px;
+  }
+
+  
